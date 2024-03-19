@@ -1,0 +1,18 @@
+{
+    "AdsController": [
+    {
+        "BannerAd": "admob",
+        "NativeAd": "admob",
+        "InterstitialAd": "admob",
+        "OpenAdAdmobId":"ca-app-pub-3940256099942544/3419835294",
+        "maxBanner": "ed46013edac5d041",
+        "maxNative": "ed46013edac5d041",
+        "maxReward": "bbaa9696c3ebf9e",
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+        "maxInterstitial": "e2f6388ac7561fa9",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712"
+
+    }
+    ]
+    }
